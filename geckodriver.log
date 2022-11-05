@@ -1,0 +1,221 @@
+1665562124177	geckodriver	INFO	Listening on 127.0.0.1:52858
+1665564873725	geckodriver	INFO	Listening on 127.0.0.1:52486
+1665564876758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileLmpP6G"
+1665564877277	Marionette	INFO	Marionette enabled
+1665564877284	Marionette	INFO	Listening on port 52499
+Read port: 52499
+1665564877795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileLmpP6G\\search.json.mozlz4", (void 0)))
+1665564895827	Marionette	INFO	Stopped listening on port 52499
+JavaScript error: https://u5.investingchannel.com/predictive/predictive_worker.js, line 1: NS_BINDING_ABORTED: 
+1665565695994	geckodriver	INFO	Listening on 127.0.0.1:52814
+1665565699064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileWABTkj"
+1665565699995	Marionette	INFO	Marionette enabled
+1665565700002	Marionette	INFO	Listening on port 52826
+Read port: 52826
+1665565700451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileWABTkj\\search.json.mozlz4", (void 0)))
+1665565710544	Marionette	INFO	Stopped listening on port 52826
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileWABTkj\protections.sqlite
+1665565984192	geckodriver	INFO	Listening on 127.0.0.1:51815
+1665565987241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofile8Qaqwf"
+1665565987730	Marionette	INFO	Marionette enabled
+1665565987738	Marionette	INFO	Listening on port 51827
+Read port: 51827
+1665565988166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofile8Qaqwf\\search.json.mozlz4", (void 0)))
+1665566001456	Marionette	INFO	Stopped listening on port 51827
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofile8Qaqwf\protections.sqlite
+1665566089441	geckodriver	INFO	Listening on 127.0.0.1:51990
+1665566092503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileghu3N8"
+1665566093012	Marionette	INFO	Marionette enabled
+1665566093018	Marionette	INFO	Listening on port 52002
+Read port: 52002
+1665566093449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileghu3N8\\search.json.mozlz4", (void 0)))
+1665566098596	Marionette	INFO	Stopped listening on port 52002
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileghu3N8\protections.sqlite
+1665566099598	geckodriver	INFO	Listening on 127.0.0.1:52058
+1665566102630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileIpkqwr"
+1665566103130	Marionette	INFO	Marionette enabled
+1665566103214	Marionette	INFO	Listening on port 52070
+Read port: 52070
+1665566103625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileIpkqwr\\search.json.mozlz4", (void 0)))
+1665566114718	Marionette	INFO	Stopped listening on port 52070
+1665566116119	geckodriver	INFO	Listening on 127.0.0.1:52141
+1665566119189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilecH4zCR"
+1665566119688	Marionette	INFO	Marionette enabled
+1665566119693	Marionette	INFO	Listening on port 52151
+Read port: 52151
+1665566120220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilecH4zCR\\search.json.mozlz4", (void 0)))
+1665566129480	Marionette	INFO	Stopped listening on port 52151
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofilecH4zCR\protections.sqlite
+1665566173770	geckodriver	INFO	Listening on 127.0.0.1:52219
+1665566176836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilemnlhIt"
+1665566177334	Marionette	INFO	Marionette enabled
+1665566177341	Marionette	INFO	Listening on port 52232
+Read port: 52232
+1665566177825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilemnlhIt\\search.json.mozlz4", (void 0)))
+1665566182090	Marionette	INFO	Stopped listening on port 52232
+1665566284912	geckodriver	INFO	Listening on 127.0.0.1:52276
+1665566287978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilePMzXXq"
+1665566288478	Marionette	INFO	Marionette enabled
+1665566288484	Marionette	INFO	Listening on port 52288
+Read port: 52288
+1665566288931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilePMzXXq\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.macrotrends.net."
+1665566298351	Marionette	INFO	Stopped listening on port 52288
+1665566513423	geckodriver	INFO	Listening on 127.0.0.1:52357
+1665566516491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileCZsX9L"
+1665566516987	Marionette	INFO	Marionette enabled
+1665566516993	Marionette	INFO	Listening on port 52369
+Read port: 52369
+1665566517437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileCZsX9L\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.macrotrends.net."
+1665566528250	Marionette	INFO	Stopped listening on port 52369
+1665566545461	geckodriver	INFO	Listening on 127.0.0.1:52443
+1665566548513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilezHZSrH"
+1665566548996	Marionette	INFO	Marionette enabled
+1665566549002	Marionette	INFO	Listening on port 52455
+Read port: 52455
+1665566549456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilezHZSrH\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.macrotrends.net."
+1665566560142	Marionette	INFO	Stopped listening on port 52455
+1665566655199	geckodriver	INFO	Listening on 127.0.0.1:52566
+1665566658267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileB79VPz"
+1665566658761	Marionette	INFO	Marionette enabled
+1665566658768	Marionette	INFO	Listening on port 52579
+Read port: 52579
+1665566659200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileB79VPz\\search.json.mozlz4", (void 0)))
+1665566666325	Marionette	INFO	Stopped listening on port 52579
+1665566704956	geckodriver	INFO	Listening on 127.0.0.1:52647
+1665566708019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileihGDz3"
+1665566708548	Marionette	INFO	Marionette enabled
+1665566708554	Marionette	INFO	Listening on port 52659
+Read port: 52659
+1665566709066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileihGDz3\\search.json.mozlz4", (void 0)))
+1665566719765	Marionette	INFO	Stopped listening on port 52659
+1665566925076	geckodriver	INFO	Listening on 127.0.0.1:52758
+1665566928132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilebdrRAF"
+1665566928613	Marionette	INFO	Marionette enabled
+1665566928620	Marionette	INFO	Listening on port 52770
+Read port: 52770
+1665566929091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilebdrRAF\\search.json.mozlz4", (void 0)))
+1665566941271	Marionette	INFO	Stopped listening on port 52770
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofilebdrRAF\protections.sqlite
+1665566970614	geckodriver	INFO	Listening on 127.0.0.1:52867
+1665566973677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilebTuy8H"
+1665566974171	Marionette	INFO	Marionette enabled
+1665566974177	Marionette	INFO	Listening on port 52879
+Read port: 52879
+1665566974613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilebTuy8H\\search.json.mozlz4", (void 0)))
+1665566986253	Marionette	INFO	Stopped listening on port 52879
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofilebTuy8H\protections.sqlite
+1665566987206	geckodriver	INFO	Listening on 127.0.0.1:52970
+1665566990754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileVnl10n"
+1665566992065	Marionette	INFO	Marionette enabled
+1665566992072	Marionette	INFO	Listening on port 52982
+Read port: 52982
+1665566992480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileVnl10n\\search.json.mozlz4", (void 0)))
+1665567002508	Marionette	INFO	Stopped listening on port 52982
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileVnl10n\protections.sqlite
+1665567093487	geckodriver	INFO	Listening on 127.0.0.1:53106
+1665567096551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofile2QhtJp"
+1665567096961	Marionette	INFO	Marionette enabled
+1665567096967	Marionette	INFO	Listening on port 53118
+Read port: 53118
+1665567097097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofile2QhtJp\\search.json.mozlz4", (void 0)))
+1665567106094	Marionette	INFO	Stopped listening on port 53118
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofile2QhtJp\protections.sqlite
+1665567107027	geckodriver	INFO	Listening on 127.0.0.1:53198
+1665567110080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileAT5W12"
+1665567110496	Marionette	INFO	Marionette enabled
+1665567110503	Marionette	INFO	Listening on port 53210
+Read port: 53210
+1665567110638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileAT5W12\\search.json.mozlz4", (void 0)))
+1665567120344	Marionette	INFO	Stopped listening on port 53210
+1665567924348	geckodriver	INFO	Listening on 127.0.0.1:60020
+1665567944796	geckodriver	INFO	Listening on 127.0.0.1:60025
+1665567947845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileLGMbOF"
+1665567948378	Marionette	INFO	Marionette enabled
+1665567948384	Marionette	INFO	Listening on port 60037
+Read port: 60037
+1665567948782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileLGMbOF\\search.json.mozlz4", (void 0)))
+1665567959120	Marionette	INFO	Stopped listening on port 60037
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileLGMbOF\protections.sqlite
+1665567960065	geckodriver	INFO	Listening on 127.0.0.1:60110
+1665567963137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileAAUYul"
+1665567963627	Marionette	INFO	Marionette enabled
+1665567963634	Marionette	INFO	Listening on port 60122
+Read port: 60122
+1665567964055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileAAUYul\\search.json.mozlz4", (void 0)))
+1665567974978	Marionette	INFO	Stopped listening on port 60122
+[Parent 17192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665567976887	geckodriver	INFO	Listening on 127.0.0.1:60198
+1665567979956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileDD6cpX"
+1665567980461	Marionette	INFO	Marionette enabled
+1665567980468	Marionette	INFO	Listening on port 60210
+Read port: 60210
+1665567980896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileDD6cpX\\search.json.mozlz4", (void 0)))
+1665567993357	Marionette	INFO	Stopped listening on port 60210
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileDD6cpX\protections.sqlite
+1665567994233	geckodriver	INFO	Listening on 127.0.0.1:60295
+1665567997302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileFTKTM7"
+1665567997795	Marionette	INFO	Marionette enabled
+1665567997801	Marionette	INFO	Listening on port 60307
+Read port: 60307
+1665567998127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileFTKTM7\\search.json.mozlz4", (void 0)))
+1665568008811	Marionette	INFO	Stopped listening on port 60307
+1665568010371	geckodriver	INFO	Listening on 127.0.0.1:60396
+1665568013432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilezkSGvk"
+1665568014412	Marionette	INFO	Marionette enabled
+1665568014433	Marionette	INFO	Listening on port 60409
+Read port: 60409
+1665568014935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilezkSGvk\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.macrotrends.net."
+1665568113231	geckodriver	INFO	Listening on 127.0.0.1:60502
+1665568116303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileWXGZ6O"
+1665568116829	Marionette	INFO	Marionette enabled
+1665568116836	Marionette	INFO	Listening on port 60514
+Read port: 60514
+1665568117165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileWXGZ6O\\search.json.mozlz4", (void 0)))
+1665568128842	Marionette	INFO	Stopped listening on port 60514
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofileWXGZ6O\protections.sqlite
+1665927644099	geckodriver	INFO	Listening on 127.0.0.1:61686
+1665927647172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilemmyLWp"
+1665927647790	Marionette	INFO	Marionette enabled
+1665927647797	Marionette	INFO	Listening on port 61698
+Read port: 61698
+1665927648250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofilemmyLWp\\search.json.mozlz4", (void 0)))
+1665927656485	Marionette	INFO	Stopped listening on port 61698
+[Parent 12532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Seba\AppData\Local\Temp\rust_mozprofilemmyLWp\protections.sqlite
+1665927675837	geckodriver	INFO	Listening on 127.0.0.1:61800
+1665927678898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileaka3Tc"
+1665927679393	Marionette	INFO	Marionette enabled
+1665927679400	Marionette	INFO	Listening on port 61812
+Read port: 61812
+1665927679919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Seba\\AppData\\Local\\Temp\\rust_mozprofileaka3Tc\\search.json.mozlz4", (void 0)))
+1665927689310	Marionette	INFO	Stopped listening on port 61812
